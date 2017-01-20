@@ -1,0 +1,26 @@
+{
+  "name": "sample-koa-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juwaini/sample-koa-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juwaini/sample-koa-project/issues"
+  },
+  "homepage": "https://github.com/juwaini/sample-koa-project#readme",
+  "devDependencies": {
+    "babel-preset-stage-0": "^6.16.0",
+    "koa": "^2.0.0"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.20.0"
+  }
+}
